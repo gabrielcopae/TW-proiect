@@ -1,5 +1,5 @@
 class Proiect {
-    constructor (Id,nume,domeniu,echipa){
+    constructor (id,nume,domeniu,echipa){
         this.id = id;
         this.nume = nume;
         this.domeniu = domeniu;
